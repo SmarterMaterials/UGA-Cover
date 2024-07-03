@@ -1,4 +1,4 @@
-# UGA-Cover
+# Grenoble Alpes University Thesis cover page
 This repository provides a Latex template to create yourself the first page of your thesis.
 
 
