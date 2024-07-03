@@ -3,8 +3,7 @@ This repository provides a Latex template to create yourself the first page of y
 
 It has been reported that mistakes can be present in the ADUM cover page. To avoid this you can create the cover page thanks to this LateX project.
 
-This repository is based on the repository "template_UGA_manuscrit_ENG" authored by Nicolas Magne Tang that provides a full thesis template for Université Grenoble Alpes 
-- [Link](https://github.com/nicomagnet/template_UGA_manuscrit_ENG)''
+This repository is based on the repository [template_UGA_manuscrit_ENG](https://github.com/nicomagnet/template_UGA_manuscrit_ENG) authored by Nicolas Magne Tang that provides a full thesis template for Université Grenoble Alpes.
 
 ## How it works:
 - The file "manuscrit.tex" (Manuscript file) is the base document.
