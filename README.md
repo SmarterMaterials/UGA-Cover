@@ -11,7 +11,7 @@ This repository is based on the repository [template_UGA_manuscrit_ENG](https://
 - The PhD specialty, the lab, the doctoral school can be modified within the "meta-donnees.sty" file around line 30.
 
 ## Create the pdf
-The easiest way to use LaTeX is Overleaf. You can start here: [Link](https://www.overleaf.com). 
+The easiest way to use LaTeX is [Overleaf](https://www.overleaf.com). 
 Create an overleak account and download the .zip file of the GitHub project. 
 Create a new project in Overleaf and choose upload project, you juste have to select the .zip file you just downloaded and you are ready!
 
