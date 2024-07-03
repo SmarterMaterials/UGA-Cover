@@ -15,3 +15,5 @@ The easiest way to use LaTeX is [Overleaf](https://www.overleaf.com).
 Create an overleak account and download the .zip file of the GitHub project. 
 Create a new project in Overleaf and choose upload project, you juste have to select the .zip file you just downloaded and you are ready!
 
+## Future of the project
+In the next few weeks a template for a complete thesis using this cover page will be released....
