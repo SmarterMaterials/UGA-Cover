@@ -1,4 +1,4 @@
-# Grenoble Alpes University Thesis cover page
+# EN-Grenoble Alpes University Thesis cover page
 This repository provides a Latex template to create yourself the first page of your thesis.
 
 It has been reported that mistakes can be present in the ADUM cover page. To avoid this you can create the cover page thanks to this LateX project.
@@ -20,7 +20,7 @@ In the next few weeks a template for a complete thesis using this cover page wil
 
 ----------------------------------------------------------------
 
-# Université Grenoble Alpes, page de garde de thèse
+# FR-Université Grenoble Alpes, page de garde de thèse
 Ce dépôt propose un modèle Latex pour créer vous-même la première page de votre thèse.
 
 Il a été rapporté que des erreurs peuvent être présentes dans la page de couverture générée par l'université présente sur ADUM. Pour éviter cela, vous pouvez créer la page de couverture grâce à ce projet LateX.
