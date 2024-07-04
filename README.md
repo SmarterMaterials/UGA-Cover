@@ -17,3 +17,25 @@ Create a new project in Overleaf and choose upload project, you juste have to se
 
 ## Future of the project
 In the next few weeks a template for a complete thesis using this cover page will be released....
+
+----------------------------------------------------------------
+
+# Université Grenoble Alpes, page de garde de thèse
+Ce dépôt propose un modèle Latex pour créer vous-même la première page de votre thèse.
+
+Il a été rapporté que des erreurs peuvent être présentes dans la page de couverture générée par l'université présente sur ADUM. Pour éviter cela, vous pouvez créer la page de couverture grâce à ce projet LateX.
+
+Ce dépôt est basé sur le dépôt [template_UGA_manuscrit_ENG](https://github.com/nicomagnet/template_UGA_manuscrit_ENG) dont l'auteur est Nicolas Magne Tang et qui fournit un modèle de thèse complet pour l'Université Grenoble Alpes.
+
+## Comment ça marche :
+- Le fichier "manuscrit.tex" (Manuscript file) est le document de base.
+- Les noms des directeurs, des rapporteurs et du jury peuvent être édités dans le fichier "manuscrit.tex" ainsi que le nom de l'auteur, le titre de la thèse et la date de soutenance.
+- La spécialité, le laboratoire et l'école doctorale peuvent être modifiés dans le fichier "meta-donnees.sty" (~ ligne 30).
+
+## Créer le pdf
+La manière la plus simple d'utiliser LaTeX est [Overleaf](https://www.overleaf.com). 
+Créez un compte Overleaf et téléchargez le fichier .zip du projet GitHub. 
+Créez un nouveau projet dans Overleaf et choisissez upload project, vous n'avez plus qu'à sélectionner le fichier .zip que vous venez de télécharger et vous êtes prêt !
+
+## L'avenir du projet
+Dans les prochaines semaines, un modèle de thèse complet utilisant cette page de couverture sera publié....
