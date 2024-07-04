@@ -1,7 +1,7 @@
 # EN-Grenoble Alpes University Thesis cover page
-This repository provides a Latex template to create yourself the first page of your thesis.
+This repository provides a LaTeX template to create yourself the first page of your thesis.
 
-It has been reported that mistakes can be present in the ADUM cover page. To avoid this you can create the cover page thanks to this LateX project.
+It has been reported that mistakes can be present in the ADUM cover page. To avoid this you can create the cover page thanks to this LaTeX project.
 
 This repository is based on the repository [template_UGA_manuscrit_ENG](https://github.com/nicomagnet/template_UGA_manuscrit_ENG) authored by Nicolas Magne Tang that provides a full thesis template for Université Grenoble Alpes.
 
@@ -21,9 +21,9 @@ In the next few weeks a template for a complete thesis using this cover page wil
 ----------------------------------------------------------------
 
 # FR-Université Grenoble Alpes, page de garde de thèse
-Ce dépôt propose un modèle Latex pour créer vous-même la première page de votre thèse.
+Ce dépôt propose un modèle LaTeX pour créer vous-même la première page de votre thèse.
 
-Il a été rapporté que des erreurs peuvent être présentes dans la page de couverture générée par l'université présente sur ADUM. Pour éviter cela, vous pouvez créer la page de couverture grâce à ce projet LateX.
+Il a été rapporté que des erreurs peuvent être présentes dans la page de couverture générée par l'université présente sur ADUM. Pour éviter cela, vous pouvez créer la page de couverture grâce à ce projet LaTeX.
 
 Ce dépôt est basé sur le dépôt [template_UGA_manuscrit_ENG](https://github.com/nicomagnet/template_UGA_manuscrit_ENG) dont l'auteur est Nicolas Magne Tang et qui fournit un modèle de thèse complet pour l'Université Grenoble Alpes.
 
