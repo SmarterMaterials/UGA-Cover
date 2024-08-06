@@ -28,7 +28,7 @@ Ce dépôt est basé sur le dépôt [template_UGA_manuscrit_ENG](https://github.
 
 ## Comment ça marche :
 - Le fichier "manuscrit.tex" (Manuscript file) est le document de base.
-- Toutes les point spécifiques à votre thèse (Spécialité, laboratoire, école doctorale, direction...) peuvent être modifiées dans le fichier "manuscrit.tex".
+- Toutes les informations spécifiques à votre thèse (Spécialité, laboratoire, école doctorale, direction...) peuvent être modifiées dans le fichier "manuscrit.tex".
 
 ## Créer le pdf
 La manière la plus simple d'utiliser LaTeX est [Overleaf](https://www.overleaf.com). 
