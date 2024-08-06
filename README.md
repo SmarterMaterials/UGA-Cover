@@ -7,8 +7,7 @@ This repository is based on the repository [template_UGA_manuscrit_ENG](https://
 
 ## How it works:
 - The file "manuscrit.tex" (Manuscript file) is the base document.
-- The directors, reviewers and jury names can be edited in the "manuscrit.tex" file as well as author name, thesis title and date of defense.
-- The PhD specialty, lab and doctoral school can be modified within the "meta-donnees.sty" file around line 30.
+- Every specifics of your thesis (PhD specialty, lab, doctoral school, directors...) can be edited in the "manuscrit.tex" file.
 
 ## Create the pdf
 The easiest way to use LaTeX is [Overleaf](https://www.overleaf.com). 
@@ -29,8 +28,7 @@ Ce dépôt est basé sur le dépôt [template_UGA_manuscrit_ENG](https://github.
 
 ## Comment ça marche :
 - Le fichier "manuscrit.tex" (Manuscript file) est le document de base.
-- Les noms des directeurs, des rapporteurs et du jury peuvent être édités dans le fichier "manuscrit.tex" ainsi que le nom de l'auteur, le titre de la thèse et la date de soutenance.
-- La spécialité, le laboratoire et l'école doctorale peuvent être modifiés dans le fichier "meta-donnees.sty" (~ ligne 30).
+- Toutes les point spécifiques à votre thèse (Spécialité, laboratoire, école doctorale, direction...) peuvent être modifiées dans le fichier "manuscrit.tex".
 
 ## Créer le pdf
 La manière la plus simple d'utiliser LaTeX est [Overleaf](https://www.overleaf.com). 
