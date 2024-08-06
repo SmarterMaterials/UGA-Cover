@@ -27,5 +27,3 @@
 
 %% Inclut les différents fichiers de packets, de formatage, d'environnement et de commandes personnalisés
 \input{Packages}
-\input{Format}
-\input{Commands}
